@@ -1,13 +1,13 @@
 # CalcSocket
 A simple Server-Client to gets value and calculate the result
 
-# Infos
+# Info
 
 Run frist the TCPServer after you can run the TCPClient and pass the arguments
 
-arg1 => String containg number op number like this -> "xxxx+yyyy" now space allowed
+String contains "numberoperationnumber", no spaces allowed, like this	"xxxx+yyyy"
 
-arg2 => server adderss ex: localhost, 192.168.0.100
+# Usage
 
-
-USAGE: java TCPClient xxx+yyy server
+	java TCPServer
+	java TCPClient x+y,1+1,2/3 localhost,192.168.0.100
