@@ -13,5 +13,6 @@ String contains "numberoperationnumber", no spaces allowed, like this:
 You should run the commands like this changing de operation and number at you like.
 If you run the server in same machine that you run the client the servername is
 localhost, if not, servername should the IP Adders that machine runs the TCPServer
+
 	java TCPServer
 	java TCPClient x+y servername
