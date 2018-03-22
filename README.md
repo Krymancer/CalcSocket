@@ -1,5 +1,5 @@
 # CalcSocket
-A simple Server-Client to gets value and calculate the result
+A simple Server-Client to gets value,calculate and print the result.
 
 # Info
 
